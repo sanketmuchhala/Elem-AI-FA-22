@@ -1,10 +1,10 @@
 # Elem of AI - IU FA 22
 
-Welcome to the [Elem of AI - IU FA 22](https://github.com/sanketmuchhala/Elem-AI-FA-22) repository. This repository contains all the course materials, assignments, projects, and other resources used in the Fall 2022 offering of the [Elements of Artificial Intelligence ](https://cgi.luddy.indiana.edu/~natarasr/Courses/AI.html) course at Indiana University.
+Welcome to the [Elem of AI - IU FA 22](https://github.com/sanketmuchhala/Elem-AI-FA-22) repository. This repository contains all the course materials, assignments, projects, and other resources used in the Fall 2022 offering of the [Elements of Artificial Intelligence ](https://cgi.luddy.indiana.edu/~natarasr/Courses/AI.html) course at Indiana University. The course is taught by Prof. Zoran Tiganj.
 
 ## Description
 
-This course introduces the basics of Artificial Intelligence (AI), which includes machine learning, probabilistic reasoning, robotics, and natural language processing. The objective of this course is to provide you with a comprehensive understanding of the core principles of AI and its applications.
+This course, guided by Prof. Zoran Tiganj, introduces the basics of Artificial Intelligence (AI), which includes machine learning, probabilistic reasoning, robotics, and natural language processing. The objective of this course is to provide you with a comprehensive understanding of the core principles of AI and its applications.
 
 The repository is structured as follows:
 
@@ -15,7 +15,7 @@ The repository is structured as follows:
 
 ## Acknowledgements
 
-We thank the staff, students, and the open-source community who contributed to this repository.
+We thank the staff, students, Prof. Zoran Tiganj, and the open-source community who contributed to this repository.
 
 [![Contributors](https://img.shields.io/github/contributors/sanketmuchhala/Elem-AI-FA-22)](https://github.com/sanketmuchhala/Elem-AI-FA-22/contributors)
 [![Forks](https://img.shields.io/github/forks/sanketmuchhala/Elem-AI-FA-22)](https://github.com/sanketmuchhala/Elem-AI-FA-22/network/members)
