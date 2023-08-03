@@ -1,6 +1,6 @@
 # Elem of AI - IU FA 22
 
-Welcome to the [Elem of AI - IU FA 22](https://github.com/sanketmuchhala/Elem-AI-FA-22) repository. This repository contains all the course materials, assignments, projects, and other resources used in the Fall 2022 offering of the Elements of Artificial Intelligence course at Indiana University.
+Welcome to the [Elem of AI - IU FA 22](https://github.com/sanketmuchhala/Elem-AI-FA-22) repository. This repository contains all the course materials, assignments, projects, and other resources used in the Fall 2022 offering of the [Elements of Artificial Intelligence ](https://cgi.luddy.indiana.edu/~natarasr/Courses/AI.html) course at Indiana University.
 
 ## Description
 
